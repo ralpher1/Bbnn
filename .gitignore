@@ -1,0 +1,30 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Coverage & test artifacts
+coverage/
+.nyc_output/
+
+# Temp
+tmp/
+temp/
+
+# Rust
+/target/
