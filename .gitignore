@@ -28,3 +28,8 @@ temp/
 
 # Rust
 /target/
+
+
+# Added by cargo
+
+/target
